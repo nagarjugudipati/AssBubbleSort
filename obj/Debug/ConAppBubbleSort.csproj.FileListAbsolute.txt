@@ -1,0 +1,8 @@
+D:\Mphasis\Assested Projects\ConAppBubbleSort\ConAppBubbleSort\bin\Debug\ConAppBubbleSort.exe.config
+D:\Mphasis\Assested Projects\ConAppBubbleSort\ConAppBubbleSort\bin\Debug\ConAppBubbleSort.exe
+D:\Mphasis\Assested Projects\ConAppBubbleSort\ConAppBubbleSort\bin\Debug\ConAppBubbleSort.pdb
+D:\Mphasis\Assested Projects\ConAppBubbleSort\ConAppBubbleSort\obj\Debug\ConAppBubbleSort.csproj.AssemblyReference.cache
+D:\Mphasis\Assested Projects\ConAppBubbleSort\ConAppBubbleSort\obj\Debug\ConAppBubbleSort.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Assested Projects\ConAppBubbleSort\ConAppBubbleSort\obj\Debug\ConAppBubbleSort.csproj.CoreCompileInputs.cache
+D:\Mphasis\Assested Projects\ConAppBubbleSort\ConAppBubbleSort\obj\Debug\ConAppBubbleSort.exe
+D:\Mphasis\Assested Projects\ConAppBubbleSort\ConAppBubbleSort\obj\Debug\ConAppBubbleSort.pdb
